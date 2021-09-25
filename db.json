@@ -1,6 +1,6 @@
 {
     1:{
-        'nombre': 'pinza',
+        "nombre": "pinza",
         precio: 200,
         imgFile: 'IMG/pinza.jpg'
     },
