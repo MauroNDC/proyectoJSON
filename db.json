@@ -1,5 +1,5 @@
 [{
-    {
+    
         "nombre": "pinza",
         "precio": 200,
         "imgFile": "IMG/pinza.jpg"
@@ -24,4 +24,4 @@
         "precio": 5000,
         "imgFile": "IMG/pinza.jpg"    
     }
-}]
+]
