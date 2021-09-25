@@ -1,5 +1,5 @@
 {
-    1:{
+    hola:{
         nombre: "pinza",
         precio: 200,
         imgFile: "IMG/pinza.jpg"
