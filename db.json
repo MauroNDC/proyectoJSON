@@ -1,27 +1,27 @@
 {
-    "1":{
-        nombre: "pinza",
+    1:{
+        nombre: 'pinza',
         precio: 200,
-        imgFile: "IMG/pinza.jpg"
+        imgFile: 'IMG/pinza.jpg'
     },
-    "2":{
-        nombre: "destornillador",
+    2:{
+        nombre: 'destornillador',
         precio: 150,
-        imgFile: "IMG/destornillador.jpg"
+        imgFile: 'IMG/destornillador.jpg'
     },
-    "3":{
-        nombre: "martillo",
+    3:{
+        nombre: 'martillo',
         precio: 250,
-        imgFile: "IMG/pinza.jpg"
+        imgFile: 'IMG/pinza.jpg'
     },
-    "4":{
-        nombre: "alicate",
+    4:{
+        nombre: 'alicate',
         precio: 320,
-        imgFile: "IMG/pinza.jpg"
+        imgFile: 'IMG/pinza.jpg'
     },
-    "5":{
-        nombre: "percutora",
+    5:{
+        nombre: 'percutora',
         precio: 5000,
-        imgFile: "IMG/pinza.jpg"    
+        imgFile: 'IMG/pinza.jpg'    
     }
 }
