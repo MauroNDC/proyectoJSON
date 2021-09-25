@@ -1,27 +1,52 @@
 [{
     
-        "nombre": "pinza",
+        "nombre": "PINZA",
         "precio": 200,
         "imgFile": "IMG/pinza.jpg"
     },
     {
-        "nombre": "destornillador",
+        "nombre": "DESTORNILLADOR",
         "precio": 150,
         "imgFile": "IMG/destornillador.jpg"
     },
     {
-        "nombre": "martillo",
+        "nombre": "MARTILLO",
         "precio": 250,
-        "imgFile": "IMG/pinza.jpg"
+        "imgFile": "IMG/martillo.jpg"
     },
     {
-        "nombre": "alicate",
+        "nombre": "ALICATE",
         "precio": 320,
         "imgFile": "IMG/pinza.jpg"
     },
     {
-        "nombre": "percutora",
+        "nombre": "PERCUTORA",
         "precio": 5000,
-        "imgFile": "IMG/pinza.jpg"    
-    }
+        "imgFile": "IMG/percutora.jpg"    
+    },
+     {
+        "nombre": "MOLADORA",
+        "precio": 6500,
+        "imgFile": "IMG/moladora.jpg"
+    },
+     {
+        "nombre": "ATORNILLADORA",
+        "precio": 5500,
+        "imgFile": "IMG/atornilladora.jpg"
+    },
+     {
+        "nombre": "MOTOSIERRA",
+        "precio": 12000,
+        "imgFile": "IMG/motosierra.png"
+    },
+     {
+        "nombre": "TALADRO",
+        "precio": 10000,
+        "imgFile": "IMG/taladro.jpg"
+    },
+     {
+        "nombre": "SIERRA CIRCULAR",
+        "precio": 14000,
+        "imgFile": "IMG/sierraCircular.png"
+    },
 ]
