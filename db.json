@@ -18,5 +18,35 @@
     "nombre": "ALICATE",
     "precio": 320,
     "imgFile": "IMG/alicate.jpg"
+},
+    {
+    "nombre": "PERCUTORA",
+    "precio": 5000,
+    "imgFile": "IMG/percutora.jpg"
+},
+{
+    "nombre": "MOLADORA",
+    "precio": 6500,
+    "imgFile": "IMG/moladora.jpg"
+},
+{
+    "nombre": "ATORNILLADORA",
+    "precio": 5500,
+    "imgFile": "IMG/atornilladora.jpg"
+},
+{
+    "nombre": "MOTOSIERRA",
+    "precio": 12000,
+    "imgFile": "IMG/motosierra.png"
+},
+{
+    "nombre": "TALADRO",
+    "precio": 10000,
+    "imgFile": "IMG/taladro.jpg"
+},
+{
+    "nombre": "SIERRA CIRCULAR",
+    "precio": 14000,
+    "imgFile": "IMG/sierraCircular.png"
 }
 ]
