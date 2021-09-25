@@ -1,4 +1,4 @@
-{
+[{
     "1":{
         "nombre": "pinza",
         "precio": 200,
@@ -25,3 +25,4 @@
         "imgFile": "IMG/pinza.jpg"    
     }
 }
+]
